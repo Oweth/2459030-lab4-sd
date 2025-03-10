@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: left;
+    margin: 20px;
+}
+#countryInput {
+    padding: 5px;
+}
+#countryInfo, #borderingCountries {
+    margin-top: 20px;
+}
+#borderingCountries img {
+    align-items: right;
+    width: 30px;
+    height: 20px;
+    margin: 0 5px;
+}
+#errorMessage {
+    color: red;
+    margin-top: 10px;
+}
